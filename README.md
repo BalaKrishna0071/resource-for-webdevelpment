@@ -1,7 +1,7 @@
 # resource-for-webdevelpment
 
-* animation :
-* animxyz - link = https://animxyz.com/
+* Animation :
+* animxyz.com - link = https://animxyz.com/
 * whirl - link = https://whirl.netlify.app/
 
 * illustration :
@@ -11,10 +11,11 @@
 * unsplash - link = https://unsplash.com/
 
 * animated icons :
-* loadingio - link = https://loading.io/
-* lordicon - link = https://lordicon.com/
-* shape - link = https://shape.so/
-* icons8.com - link =
+* loading.io - link = https://loading.io/
+* lordicon.com - link = https://lordicon.com/
+* shape.so - link = https://shape.so/
+* icons8.com - link = https://icons8.com/
+* material.io -link = https://material.io/
 
 * icons :
 * feathericons - link = https://feathericons.com/
