@@ -1,3 +1,3 @@
 # resource-for-webdevelpment
 
-* name - link
+* animation 
