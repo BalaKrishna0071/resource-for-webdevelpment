@@ -1,3 +1,8 @@
 # resource-for-webdevelpment
 
-* animation 
+* animation :
+* animxyz - link = https://animxyz.com/
+* whirl - link = https://whirl.netlify.app/
+
+* icons :
+* feathericons - link =https://feathericons.com/
