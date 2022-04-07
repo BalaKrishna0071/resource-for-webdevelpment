@@ -1,4 +1,13 @@
-# resource-for-webdevelpment
+# resource-for-web develpment
+
+* Html & css templates :
+* cruip.com = https://cruip.com/
+* html5up.com = https://html5up.net/
+* w3layouts.com = https://w3layouts.com/
+* nicepage.com = https://nicepage.com/templates\
+* colorlib.com = https://colorlib.com/
+* bootstrapmade.com = https://bootstrapmade.com/
+* uideck.com = https://uideck.com/
 
 * Animation :
 * animxyz.com - link = https://animxyz.com/
@@ -16,6 +25,7 @@
 * shape.so - link = https://shape.so/
 * icons8.com - link = https://icons8.com/
 * material.io -link = https://material.io/
+* potlabicons.com = https://potlabicons.com/
 
 * icons :
 * feathericons - link = https://feathericons.com/
